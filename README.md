@@ -1,7 +1,7 @@
 angularjs-fileupload
 ====================
 
-<b><i>Installing & Useage:</i></b>
+<h2><b><i>Installing & Useage:</i></b></h2>
   
 <ol>
     <li>
