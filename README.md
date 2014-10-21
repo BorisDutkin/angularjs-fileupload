@@ -1,7 +1,7 @@
 angularjs-fileupload
 ====================
 
-Installing & Useage:
+<b><i>Installing & Useage:</i></b>
 
 1)  Include 'angular-file-upload.js' script to the html file.
 
