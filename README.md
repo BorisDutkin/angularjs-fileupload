@@ -3,7 +3,7 @@ angularjs-fileupload
 
 Installing & Useage:
 
-1)  Include 'angular-file-upload.js' script to the file.
+1)  Include 'angular-file-upload.js' script to the html file.
 
 2)  Include module dependency: angular.module('myApp', ['ngFileUpload'])
 
