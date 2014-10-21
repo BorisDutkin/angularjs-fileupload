@@ -5,7 +5,7 @@ angularjs-fileupload
 
 1)  Include 'angular-file-upload.js' script to the html file.
 
-2)  Include module dependency: angular.module('myApp', ['ngFileUpload'])...
+2)  Include module dependency: angular.module('myApp', ['ngFileUpload']) ...
 
 3)  Insert div with file-upload class in your controller in html.
 
