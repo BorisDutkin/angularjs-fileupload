@@ -7,7 +7,7 @@ Installing & Useage:
 
 2)  Include module dependency: angular.module('myApp', ['ngFileUpload'])
 
-3)  Insert <div class="file-upload"></div> in your controller.
+3)  Insert <div class=file-upload></div> in your controller.
 
 4)  "file-upload" directive will automatically create $scope.formObject variable in your controller.
 
